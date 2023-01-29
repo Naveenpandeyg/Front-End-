@@ -1,6 +1,14 @@
 # Front-End Performance Checklist   
 
- 
+ ## Introduction
+
+Performance is a huge subject, but it's not always a "back-end" or an "admin" subject: it's a Front-End responsibility too. The Front-End Performance Checklist is an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project (personal and professional).
+
+### How to use?
+
+For each rule, you will have a paragraph explaining *why* this rule is important and *how* you can fix it. For more deep information, you should find links that will point to 🛠 tools, 📖 articles or 📹 medias that can complete the checklist.
+
+All items in the **Front-End Performance Checklist** are essentials to achieve the highest performance score but you would find an indicator to help you to eventually prioritised some rules amount others. There are 3 levels of priority:
   <br>
 
 
