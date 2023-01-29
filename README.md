@@ -1,6 +1,6 @@
 # Front-End Performance Checklist   
 
- ## Introduction
+ <h1>Introduction<h2>
 
 Performance is a huge subject, but it's not always a "back-end" or an "admin" subject: it's a Front-End responsibility too. The Front-End Performance Checklist is an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project (personal and professional).
 
