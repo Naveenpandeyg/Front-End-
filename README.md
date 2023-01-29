@@ -15,7 +15,51 @@ All items in the **Front-End Performance Checklist** are essentials to achieve t
 * ![Medium][medium] means that the item has a **medium** priority. You shouldn't avoid tackling that item.
 * ![High][high] means that the item has a **high** priority. You can't avoid following that rule and implement the corrections recommended.
   
-  
+  ### Performance tools
+
+List of the tools you can use to test or monitor your website or application:
+
+ * 🛠 [WebPagetest - Website Performance and Optimization Test](https://www.webpagetest.org/)
+ * 🛠 ☆ [Dareboost: Website Speed Test and Website Analysis](https://www.dareboost.com/) (use the coupon WPCDD20 for -20%)
+ * 🛠 [Treo: Page Speed Monitoring](https://treo.sh/?ref=perfchecklist)
+ * 🛠 [GTmetrix | Website Speed and Performance Optimization](https://gtmetrix.com/)
+ * 🛠 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+ * 🛠 [Web.dev](https://web.dev/measure)
+ * 🛠 [Pingdom Website Speed Test](https://tools.pingdom.com)
+ * 📖 [Make the Web Faster | Google Developers](https://developers.google.com/speed/)
+ * 🛠 [Sitespeed.io - Welcome to the wonderful world of Web Performance](https://www.sitespeed.io/)
+ * 🛠 [Calibre](https://calibreapp.com/)
+ * 🛠 [Website Speed Test | Check Web Performance &raquo; Dotcom-Tools](https://www.dotcom-tools.com/website-speed-test.aspx)
+ * 🛠 [Website and Server Uptime Monitoring - Pingdom](https://www.pingdom.com/product/uptime-monitoring/) ([Free Signup Link](https://www.pingdom.com/free))
+ * 🛠 [Uptime Robot](https://uptimerobot.com)
+ * 🛠 [SpeedCurve: Monitor front-end performance](https://speedcurve.com)
+ * 🛠 [PWMetrics - CLI tool and lib to gather performance metrics](https://github.com/paulirish/pwmetrics)
+ * 🛠 [Varvy - Page speed optimization]( https://varvy.com/pagespeed/)
+ * 🛠 [Lighthouse - Google]( https://developers.google.com/web/tools/lighthouse/#devtools)
+ * 🛠 [Checkbot browser extension - Checks for web performance best practices](https://www.checkbot.io/)
+ * 🛠 [Yellow Lab Tools | Online test to help speeding up heavy web pages](https://yellowlab.tools/)
+ * 🛠 [Speedrank - Web Performance Monitoring](https://speedrank.app/)
+ * 🛠 [DebugBear - Monitor website performance and Lighthouse scores](https://www.debugbear.com/)
+ * 🛠 [packtracker.io - Check your webpack bundle size on every pull request.](https://packtracker.io/)
+ * 🛠 [Exthouse - Analyze the impact of a browser extension on web performance](https://github.com/treosh/exthouse)
+ * 🛠 [LogRocket - Measure front-end performance in production apps](https://logrocket.com)
+
+### References
+
+ * 📹 [The Cost Of JavaScript - YouTube](https://www.youtube.com/watch?v=_bzqF05xsC4) ([text version](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4))
+ * [AddyOsmani.com - Start Performance Budgeting](https://addyosmani.com/blog/performance-budgets/)
+ * 📖 [Get Started With Analyzing Runtime Performance  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
+ * 📖 [State of the Web | 2018_01_01](https://httparchive.org/reports/state-of-the-web?start=2018_01_01)
+ * 📖 [Page Weight Doesn't Matter](https://www.speedshop.co/2015/11/05/page-weight-doesnt-matter.html)
+ * 📖 [Front-End Performance Checklist 2021 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+ * 📖 [Designing for Performance Weighing Aesthetics and Speed - By Lara Callender Hogan [eBook, Print]](http://designingforperformance.com/index.html)
+ * 📖 [Varvy - Web performance glossary](https://varvy.com/performance/)
+ * 📖 [fabkrum/web-performance-resources: Up to date collection of valuable web performance resources](https://github.com/fabkrum/web-performance-resources)
+ * 📖 [Checkbot - Web Speed Best Practices](https://www.checkbot.io/guide/speed/)
+ * 🛠 [Progressive Tooling - A list of community-built, third-party tools that can be used to improve page performance](https://progressivetooling.com/)
+
+---
+
   
   <br>
 
