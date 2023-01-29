@@ -1,5 +1,5 @@
 # ABOUT -HTML
-HYPER TEXT MARKUP LANGUAGES
+<H2>HYPER TEXT MARKUP LANGUAGES</H2>
 # HTML HISTORY
 <P>1-1989  Tim Berner-Lee invented www</P>
 <P>2-1991  Tim Berner-lee invented HTML</P>
