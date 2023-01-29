@@ -1,44 +1,47 @@
 # Front-End Performance Checklist   
+<h1 align="center">
+<br>
+  <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/master/images/logo-front-end-performance-checklist.jpg" alt="Front-End Performance Checklist" width="170"></a>
+  <br>
+    <br>
+  Front-End Performance Checklist
+  <br>
+</h1>
 
-The only Front-End Performance Checklist that runs faster than the others.
+<h4 align="center">🎮 The only Front-End Performance Checklist that runs faster than the others.</h4>
+<p align="center">One simple rule: "Design and code with performance in mind"</p>
 
-Introduction
+<p align="center">
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+  <a href="https://discord.gg/btHQRkm">
+    <img src="https://img.shields.io/badge/chat-on_discord-4837E2.svg?style=flat-square" alt="Discord">
+  </a>
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="Licence MIT">
+  </a>
+</p>
 
-Performance is a huge subject, but it's not always a "back-end" or an "admin" subject: it's a Front-End responsibility too. The Front-End Performance Checklist is an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project (personal and professional).
-How to use?
+<p align="center">
+  <a href="#how-to-use">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="https://www.producthunt.com/posts/front-end-performance-checklist">Product Hunt</a>
+</p>
 
-For each rule, you will have a paragraph explaining why this rule is important and how you can fix it. For more deep information, you should find links that will point to hammer_and_wrench tools, book articles or video_camera medias that can complete the checklist.
+<p align="center">
+  <a href="https://github.com/JohnsenZhou/Front-End-Performance-Checklist">🇨🇳</a>
+  <a href="https://github.com/WilliamDASILVA/Front-End-Performance-Checklist">🇫🇷</a>
+  <a href="https://github.com/ParkSB/Front-End-Performance-Checklist">🇰🇷</a>
+  <a href="https://github.com/fernandofawkes/Front-End-Performance-Checklist">🇵🇹</a>
+  <a href="https://github.com/lex111/Front-End-Performance-Checklist">🇷🇺</a>
+  <a href="https://github.com/GameWith/Front-End-Performance-Checklist">🇯🇵</a>
+  <a href="https://github.com/ms-fadaei/Front-End-Performance-Checklist">🇮🇷</a>
+</p>
 
-All items in the Front-End Performance Checklist are essentials to achieve the highest performance score but you would find an indicator to help you to eventually prioritised some rules amount others. There are 3 levels of priority:
-
-  Performance tools
-
-List of the tools you can use to test or monitor your website or application:
-
-   WebPagetest - Website Performance and Optimization Test
-   Dareboost: Website Speed Test and Website Analysis (use the coupon WPCDD20 for -20%)
-     Treo: Page Speed Monitoring
-     GTmetrix | Website Speed and Performance Optimization
-    PageSpeed Insights
-     Web.dev
-   Pingdom Website Speed Test
-    book Make the Web Faster | Google Developers
-     Sitespeed.io - Welcome to the wonderful world of Web Performance
-    Calibre
-    Website Speed Test | Check Web Performance » Dotcom-Tools
-    Website and Server Uptime Monitoring - Pingdom (Free Signup Link)
-   h Uptime Robot
-    SpeedCurve: Monitor front-end performance
-    PWMetrics - CLI tool and lib to gather performance metrics
-   Varvy - Page speed optimization
-    Lighthouse - Google
-  Checkbot browser extension - Checks for web performance best practices
-     Yellow Lab Tools | Online test to help speeding up heavy web pages
-   Speedrank - Web Performance Monitoring
-     DebugBear - Monitor website performance and Lighthouse scores
-     packtracker.io - Check your webpack bundle size on every pull request.
-    Exthouse - Analyze the impact of a browser extension on web performance
-    LogRocket - Measure front-end performance in production apps
+<p align="center">
+    <span>Other Checklists:</span>
+    <br>
+  🗂 <a href="https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-">Front-End Checklist</a> • 💎 <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">Front-End Design Checklist</a>
+</p>
 
 
 
