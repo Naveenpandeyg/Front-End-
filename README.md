@@ -1,9 +1,6 @@
 # Front-End Performance Checklist   
-<h1 align="center">
-<br>
 
-    <br>
-  Front-End Performance Checklist
+ 
   <br>
 
 
