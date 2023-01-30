@@ -625,6 +625,20 @@ If you have any question or suggestion, don't hesitate to use Discord or Twitter
 * [Chat on Discord](https://discord.gg/btHQRkm)
 * [Facebook](https://www.facebook.com/frontendchecklist/)
 * [Twitter](https://twitter.com/thedaviddias)
+Some Emoji Symbols in UTF-8
+Emoji 	Value 	Try it
+🗻	&#128507;	
+🗼	&#128508;	
+🗽	&#128509;	
+🗾	&#128510;	
+🗿	&#128511;	
+😀	&#128512;	
+😁	&#128513;	
+😂	&#128514;	
+😃	&#128515;	
+😄	&#128516;	
+😅	&#128517;	
+
 
 ## Author
 
