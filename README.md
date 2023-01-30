@@ -63,6 +63,17 @@ List of the tools you can use to test or monitor your website or application:
   
   <br>
 
+The Most Important Differences from HTML
+
+    <!DOCTYPE> is mandatory
+    The xmlns attribute in <html> is mandatory
+    <html>, <head>, <title>, and <body> are mandatory
+    Elements must always be properly nested
+    Elements must always be closed
+    Elements must always be in lowercase
+    Attribute names must always be in lowercase
+    Attribute values must always be quoted
+    Attribute minimization is forbidden
 
 
 
@@ -83,7 +94,43 @@ List of the tools you can use to test or monitor your website or application:
 <P>12-2017  W3C Recommendation HTML5.12ND Edition</P>
 <p>13-2017  W3c Recommendation HTML 5.2</P>
  HTML
+<p>Char 	Number 	Entity 	Description 	Try it
+∀ 	&#8704; 	&forall; 	FOR ALL 	
+∂ 	&#8706; 	&part; 	PARTIAL DIFFERENTIAL 	
+∃ 	&#8707; 	&exist; 	THERE EXISTS 	
+∅ 	&#8709; 	&empty; 	EMPTY SETS 	
+∇ 	&#8711; 	&nabla; 	NABLA 	
+∈ 	&#8712; 	&isin; 	ELEMENT OF 	
+∉ 	&#8713; 	&notin; 	NOT AN ELEMENT OF 	
+∋ 	&#8715; 	&ni; 	CONTAINS AS MEMBER 	
+∏ 	&#8719; 	&prod; 	N-ARY PRODUCT 	
+∑ 	&#8721; 	&sum; 	N-ARY SUMMATION 	
 
+Full Math Reference
+Some Greek Letters Supported by HTML
+Char 	Number 	Entity 	Description 	Try it
+Α 	&#913; 	&Alpha; 	GREEK CAPITAL LETTER ALPHA 	
+Β 	&#914; 	&Beta; 	GREEK CAPITAL LETTER BETA 	
+Γ 	&#915; 	&Gamma; 	GREEK CAPITAL LETTER GAMMA 	
+Δ 	&#916; 	&Delta; 	GREEK CAPITAL LETTER DELTA 	
+Ε 	&#917; 	&Epsilon; 	GREEK CAPITAL LETTER EPSILON 	
+Ζ 	&#918; 	&Zeta; 	GREEK CAPITAL LETTER ZETA 	
+
+Full Greek Reference
+Some Other Entities Supported by HTML
+Char 	Number 	Entity 	Description 	Try it
+© 	&#169; 	&copy; 	COPYRIGHT SIGN 	
+® 	&#174; 	&reg; 	REGISTERED SIGN 	
+€ 	&#8364; 	&euro; 	EURO SIGN 	
+™ 	&#8482; 	&trade; 	TRADEMARK 	
+← 	&#8592; 	&larr; 	LEFTWARDS ARROW 	
+↑ 	&#8593; 	&uarr; 	UPWARDS ARROW 	
+→ 	&#8594; 	&rarr; 	RIGHTWARDS ARROW 	
+↓ 	&#8595; 	&darr; 	DOWNWARDS ARROW 	
+♠ 	&#9824; 	&spades; 	BLACK SPADE SUIT 	
+♣ 	&#9827; 	&clubs; 	BLACK CLUB SUIT 	
+♥ 	&#9829; 	&hearts; 	BLACK HEART SUIT 	
+♦ 	&#9830; 	&diams; 	BLACK DIAMOND SUIT<p>
 ![html]
 
 - [ ] **Minified HTML:** ![medium] The HTML code is minified, comments, white spaces and new lines are removed from production files.
